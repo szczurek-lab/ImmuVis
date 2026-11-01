@@ -24,7 +24,7 @@ decoder:
 
 # Data configuration
 panel_config: finetuning_configs/new_panels_config.yaml # NEW panel config
-tokenizer_config: configs/all_markers_tokenizer.yaml # OLD tokenizer
+tokenizer_config: configs/markers_tokenizer.yaml # OLD tokenizer
 input_image_size: [128, 128]
 num_workers: 8
 batch_size: 8

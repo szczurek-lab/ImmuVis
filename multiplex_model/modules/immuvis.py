@@ -1,9 +1,11 @@
 import copy
+from pathlib import Path
 from typing import Literal
 
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+from huggingface_hub import snapshot_download
 
 from .base_modules import Block, Encoder, Identity, LayerNorm
 from .registry import resolve_block_class, resolve_encoder_class
@@ -392,6 +394,7 @@ class MultiplexAutoencoder(nn.Module):
 
         self.latent_dim = encoder_config["pm_embedding_dims"][-1]
         self.num_channels = num_channels
+        self.marker_tokenizer: dict[str, int] | None = None
 
         self.encoder = MultiplexImageEncoder(
             num_channels=self.num_channels, **encoder_config
@@ -455,7 +458,7 @@ class MultiplexAutoencoder(nn.Module):
         if isinstance(checkpoint, dict):
             checkpoint_data = checkpoint
         else:
-            checkpoint_data = torch.load(checkpoint, map_location=map_location)
+            checkpoint_data = torch.load(checkpoint, map_location=map_location, weights_only=False)
 
         resolved_config = checkpoint_data.get("model_config", model_config)
         if resolved_config is None:
@@ -465,6 +468,86 @@ class MultiplexAutoencoder(nn.Module):
 
         model = cls(**resolved_config)
         model.load_state_dict(checkpoint_data["model_state_dict"], strict=strict)
+        return model
+
+    @classmethod
+    def from_pretrained(
+        cls,
+        pretrained_model_name_or_path: str | Path,
+        *,
+        revision: str | None = None,
+        cache_dir: str | Path | None = None,
+        token: str | bool | None = None,
+        local_files_only: bool = False,
+        map_location: str | torch.device = "cpu",
+        model_config: dict | None = None,
+        strict: bool = True,
+    ) -> "MultiplexAutoencoder":
+        """Load a Hub repository or local directory containing model.pth and its tokenizer.
+
+        The tokenizer must be named markers_tokenizer.yaml. Both Hub files
+        are downloaded from the same revision. Only load trusted checkpoints:
+        load_from_checkpoint uses torch.load with weights_only=False.
+
+        Args:
+            pretrained_model_name_or_path: Hub model repo ID or local bundle directory.
+            revision: Hub branch, tag, or commit hash; use a hash for reproducibility.
+            cache_dir: Optional Hugging Face download cache directory.
+            token: Hub authentication token, or True to require a saved token.
+            local_files_only: Use cached Hub files without network access.
+            map_location: Device for loading weights and placing the returned model.
+            model_config: Architecture fallback for checkpoints without model_config.
+            strict: Require checkpoint weights to match the model exactly.
+
+        Returns:
+            Model in evaluation mode with the mapping available as marker_tokenizer.
+        """
+        from ..utils.configuration import load_tokenizer_config
+
+        model_dir = Path(pretrained_model_name_or_path).expanduser()
+        if not model_dir.is_dir():
+            model_dir = Path(
+                snapshot_download(
+                    repo_id=str(pretrained_model_name_or_path),
+                    repo_type="model",
+                    revision=revision,
+                    cache_dir=cache_dir,
+                    token=token,
+                    local_files_only=local_files_only,
+                    allow_patterns=["model.pth", "markers_tokenizer.yaml"],
+                )
+            )
+
+        checkpoint_path = model_dir / "model.pth"
+        tokenizer_path = model_dir / "markers_tokenizer.yaml"
+        for path in (checkpoint_path, tokenizer_path):
+            if not path.is_file():
+                raise FileNotFoundError(f"ImmuVis pretrained bundle is missing required file: {path}")
+
+        tokenizer = load_tokenizer_config(str(tokenizer_path))
+        if not isinstance(tokenizer, dict) or not tokenizer:
+            raise ValueError("Marker tokenizer must be a non-empty mapping of marker names to integer IDs.")
+        if any(
+            not isinstance(marker, str) or not marker or type(index) is not int
+            for marker, index in tokenizer.items()
+        ):
+            raise ValueError("Marker tokenizer must map non-empty marker names to integer IDs.")
+        if set(tokenizer.values()) != set(range(len(tokenizer))):
+            raise ValueError("Marker tokenizer IDs must be unique and contiguous, starting at zero.")
+
+        model = cls.load_from_checkpoint(
+            str(checkpoint_path),
+            map_location=map_location,
+            model_config=model_config,
+            strict=strict,
+        )
+        if len(tokenizer) != model.num_channels:
+            raise ValueError(
+                f"Tokenizer has {len(tokenizer)} markers, but the checkpoint expects {model.num_channels}."
+            )
+        model.marker_tokenizer = tokenizer
+        model.to(map_location)
+        model.eval()
         return model
 
     def encode(
