@@ -1,0 +1,1054 @@
+[
+    {
+        "marker":"ADAR1",
+        "synonyms":"ADAR; DRADA; G1P1; IFI4; Adenosine deaminase RNA specific; DSRAD; Double-stranded RNA-specific adenosine deaminase; 136 kDa double-stranded RNA-binding protein; p136; Interferon-inducible protein 4; K88DSRBP"
+    },
+    {
+        "marker":"AKT",
+        "synonyms":"AKT serine\/threonine kinase family (AKT1, AKT2, AKT3)"
+    },
+    {
+        "marker":"AMY1A",
+        "synonyms":"AMY1; Amylase alpha 1A; 1,4-alpha-D-glucan glucanohydrolase 1; Salivary alpha-amylase"
+    },
+    {
+        "marker":"AMY2A",
+        "synonyms":"AMY2; Amylase alpha 2A; Pancreatic alpha-amylase"
+    },
+    {
+        "marker":"Annexin A2",
+        "synonyms":"ANXA2; ANX2; ANX2L4; CAL1H; LIP2; LPC2D; Annexin II; Calpactin I heavy chain; Chromobindin-8; Lipocortin II; Placental anticoagulant protein IV; PAP-IV; Protein I; p36"
+    },
+    {
+        "marker":"anti-Hu",
+        "synonyms":"CXCL12 \/ stromal cell-derived factor 1"
+    },
+    {
+        "marker":"ANXA1",
+        "synonyms":"ANX1; LPC1; Annexin A1"
+    },
+    {
+        "marker":"AR",
+        "synonyms":"AIS; DHTR; HUMARA; NR3C4; SBMA; SMAX1; Androgen receptor; Dihydrotestosterone receptor; Nuclear receptor subfamily 3 group C member 4"
+    },
+    {
+        "marker":"Arg1",
+        "synonyms":"Arginase 1; Liver-type arginase; Type I arginase"
+    },
+    {
+        "marker":"ARX",
+        "synonyms":"CT121; EIEE1; ISSX; MRX29; MRX32; MRX33; MRX36; MRX38; MRX43; MRX54; MRX76; MRX87; MRXS1; PRTS; Aristaless related homeobox; Homeobox protein ARX"
+    },
+    {
+        "marker":"ATP5A",
+        "synonyms":"ATP5F1A \/ ATP synthase F(1) complex subunit alpha, mitochondrial"
+    },
+    {
+        "marker":"ATPIF1",
+        "synonyms":"ATP5IF1; ATPI; ATPIP; IP; MGC1167; MGC8898; ATP synthase inhibitory factor subunit 1; ATPase inhibitor, mitochondrial"
+    },
+    {
+        "marker":"AXL",
+        "synonyms":"ARK; JTK11; TYRO7; UFO; AXL receptor tyrosine kinase; Tyrosine-protein kinase receptor UFO; AXL oncogene"
+    },
+    {
+        "marker":"B2M",
+        "synonyms":"Beta-2-microglobulin"
+    },
+    {
+        "marker":"BCAN",
+        "synonyms":"BEHAB; CSPG7; MGC13038; Brevican; UNQ2525\/PRO6018; Brevican core protein; Brain-enriched hyaluronan-binding protein; Chondroitin sulfate proteoglycan 7"
+    },
+    {
+        "marker":"Bcl2",
+        "synonyms":"PPP1R50; BCL2 apoptosis regulator"
+    },
+    {
+        "marker":"beta-Actin",
+        "synonyms":"ACTB; Actin, cytoplasmic 1"
+    },
+    {
+        "marker":"beta-Catenin",
+        "synonyms":"CTNNB1; CTNNB; Catenin beta 1; OK\/SW-cl.35; PRO2286"
+    },
+    {
+        "marker":"Hyaluronan",
+        "synonyms":"Hyaluronic acid; HA; Hyaluronan, measured by biotinylated hyaluronan-binding protein"
+    },
+    {
+        "marker":"c-Caspase3c-PARP",
+        "synonyms":"cleaved caspase-3 + cleaved PARP1"
+    },
+    {
+        "marker":"c-Myc",
+        "synonyms":"MYC; BHLHE39; MYCC; MYC proto-oncogene, bHLH transcription factor; Myc proto-oncogene protein; Class E basic helix-loop-helix protein 39; Transcription factor p64"
+    },
+    {
+        "marker":"C-peptide",
+        "synonyms":"INS-derived C-peptide"
+    },
+    {
+        "marker":"C1Qa",
+        "synonyms":"Complement C1q A chain; Complement C1q subcomponent subunit A"
+    },
+    {
+        "marker":"C3",
+        "synonyms":"ARMD9; CPAMD1; Complement C3"
+    },
+    {
+        "marker":"CA2",
+        "synonyms":"CA-II; CAR2; Carbonic anhydrase 2; Carbonate dehydratase II; Carbonic anhydrase C; CAC; Cyanamide hydratase CA2"
+    },
+    {
+        "marker":"Cadherin-11",
+        "synonyms":"CDH11; CAD11; OB; OSF-4; Osteoblast cadherin; OB-cadherin"
+    },
+    {
+        "marker":"Carbonic Anhydrase",
+        "synonyms":"Carbonic anhydrase IX (CA9)"
+    },
+    {
+        "marker":"Caveolin-1",
+        "synonyms":"CAV1; CAV"
+    },
+    {
+        "marker":"CCL18",
+        "synonyms":"AMAC-1; CKB7; DC-CK1; MIP-4; PARC; SCYA18; C-C motif chemokine ligand 18; Alternative macrophage activation-associated CC chemokine 1; CC chemokine PARC; Dendritic cell chemokine 1; Macrophage inflammatory protein 4; Pulmonary and activation-regulated chemokine; Small-inducible cytokine A18"
+    },
+    {
+        "marker":"CCL19",
+        "synonyms":"CKB11; ELC; EXODUS-3; MIP-3b; SCYA19; C-C motif chemokine ligand 19"
+    },
+    {
+        "marker":"CCL2",
+        "synonyms":"GDCF-2; HC11; MCAF; MCP-1; MGC9434; SCYA2; SMC-CF; C-C motif chemokine ligand 2; Small-inducible cytokine A2; Monocyte secretory protein JE; Monocyte chemotactic protein 1"
+    },
+    {
+        "marker":"CCL21",
+        "synonyms":"6Ckine; CKB9; ECL; EXODUS-2; SCYA21; SLC; TCA4; C-C motif chemokine ligand 21; UNQ784\/PRO1600; Beta-chemokine exodus-2; Secondary lymphoid-tissue chemokine; Small-inducible cytokine A21"
+    },
+    {
+        "marker":"CCL22",
+        "synonyms":"A-152E5.1; ABCD-1; DC\/B-CK; MDC; MGC34554; SCYA22; STCP-1; C-C motif chemokine ligand 22; CC chemokine STCP-1; MDC(1-69); Macrophage-derived chemokine; Small-inducible cytokine A22; Stimulated T-cell chemotactic protein 1"
+    },
+    {
+        "marker":"CCL4",
+        "synonyms":"ACT-2; AT744.1; LAG1; MIP-1-beta; SCYA4; C-C motif chemokine ligand 4"
+    },
+    {
+        "marker":"CCL8",
+        "synonyms":"HC14; MCP-2; SCYA8; C-C motif chemokine ligand 8; SCYA10; Monocyte chemoattractant protein 2; Small-inducible cytokine A8"
+    },
+    {
+        "marker":"CCR2",
+        "synonyms":"CC-CKR-2; CD192; CKR2; CMKBR2; FLJ78302; MCP-1-R; C-C motif chemokine receptor 2; Monocyte chemoattractant protein 1 receptor"
+    },
+    {
+        "marker":"CCR4",
+        "synonyms":"CC-CKR-4; CD194; CHEMR13; CKR4; CMKBR4; K5-5; C-C motif chemokine receptor 4"
+    },
+    {
+        "marker":"CCR6",
+        "synonyms":"BN-1; CD196; CKR-L3; CMKBR6; DCR2; DRY-6; GPR-CY4; GPR29; STRL22; C-C motif chemokine receptor 6"
+    },
+    {
+        "marker":"CD10",
+        "synonyms":"MME; CALLA; NEP; Membrane metalloendopeptidase; EPN; Neprilysin; Atriopeptidase; Common acute lymphocytic leukemia antigen; Enkephalinase; Neutral endopeptidase 24.11; Neutral endopeptidase; Skin fibroblast elastase; SFE"
+    },
+    {
+        "marker":"CD103",
+        "synonyms":"ITGAE; HUMINAE; Integrin subunit alpha E; HML-1 antigen; Integrin alpha-IEL; Mucosal lymphocyte 1 antigen"
+    },
+    {
+        "marker":"CD109",
+        "synonyms":"CPAMD7; DKFZp762L1111; FLJ38569; 150 kDa TGF-beta-1-binding protein; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 7; Platelet-specific Gov antigen; p180; r150"
+    },
+    {
+        "marker":"CD11b",
+        "synonyms":"ITGAM; CR3A; MAC-1; Integrin subunit alpha M; CD11 antigen-like family member B; CR-3 alpha chain; Cell surface glycoprotein MAC-1 subunit alpha; Leukocyte adhesion receptor MO1; Neutrophil adherence receptor"
+    },
+    {
+        "marker":"CD11c",
+        "synonyms":"ITGAX; Integrin subunit alpha X; CD11 antigen-like family member C; Leu M5; Leukocyte adhesion receptor p150,95"
+    },
+    {
+        "marker":"CD134",
+        "synonyms":"TNFRSF4; ACT35; OX40; TXGP1L; ACT35 antigen; OX40L receptor; TAX transcriptionally-activated glycoprotein 1 receptor; Tumor necrosis factor receptor superfamily member 4"
+    },
+    {
+        "marker":"CD137",
+        "synonyms":"TNFRSF9; 4-1BB; ILA; 4-1BB ligand receptor; CDw137; T-cell antigen 4-1BB homolog; T-cell antigen ILA; Tumor necrosis factor receptor superfamily member 9"
+    },
+    {
+        "marker":"CD14",
+        "synonyms":"Monocyte differentiation antigen CD14; Myeloid cell-specific leucine-rich glycoprotein"
+    },
+    {
+        "marker":"CD146",
+        "synonyms":"MCAM; HEMCAM; MELCAM; METCAM; MUC18; Melanoma cell adhesion molecule; Cell surface glycoprotein MUC18; Cell surface glycoprotein P1H12; Melanoma-associated antigen A32; Melanoma-associated antigen MUC18; S-endo 1 endothelial-associated antigen"
+    },
+    {
+        "marker":"CD15",
+        "synonyms":"Lewis X \/ CD15 carbohydrate epitope"
+    },
+    {
+        "marker":"CD155",
+        "synonyms":"PVR; HVED; NECL-5; PVS; TAGE4; PVR cell adhesion molecule; Poliovirus receptor; Nectin-like protein 5"
+    },
+    {
+        "marker":"CD16",
+        "synonyms":"CD16 Fc-gamma receptor family (CD16A and CD16B)"
+    },
+    {
+        "marker":"CD163",
+        "synonyms":"M130; MM130; SCARI1; Scavenger receptor cysteine-rich type 1 protein M130"
+    },
+    {
+        "marker":"CD19",
+        "synonyms":"B-lymphocyte antigen CD19; B-lymphocyte surface antigen B4; Differentiation antigen CD19; T-cell surface antigen Leu-12"
+    },
+    {
+        "marker":"CD20",
+        "synonyms":"MS4A1; B1; BP35; FMC7; Membrane spanning 4-domains A1; B-lymphocyte antigen CD20"
+    },
+    {
+        "marker":"CD204",
+        "synonyms":"MSR1; SCARA1; SR-A; SR-AI; SR-AII; SR-AIII; Macrophage scavenger receptor 1; Macrophage scavenger receptor types I and II; Macrophage acetylated LDL receptor I and II; Scavenger receptor class A member 1"
+    },
+    {
+        "marker":"CD206",
+        "synonyms":"MRC1; bA541I19.1; CLEC13D; CLEC13DL; MRC1L1; Mannose receptor C-type 1; Macrophage mannose receptor 1; MMR; C-type lectin domain family 13 member D; C-type lectin domain family 13 member D-like; Human mannose receptor; hMR; Macrophage mannose receptor 1-like protein 1"
+    },
+    {
+        "marker":"CD209",
+        "synonyms":"CDSIGN; CLEC4L; DC-SIGN; DC-SIGN1; hDC-SIGN; C-type lectin domain family 4 member L; Dendritic cell-specific ICAM-3-grabbing non-integrin 1"
+    },
+    {
+        "marker":"CD235ab",
+        "synonyms":"glycophorin A\/B (CD235a\/CD235b)"
+    },
+    {
+        "marker":"CD248",
+        "synonyms":"CD164L1; TEM1; Endosialin; Tumor endothelial marker 1"
+    },
+    {
+        "marker":"CD27",
+        "synonyms":"S152; TNFRSF7; TP55; CD27L receptor; T-cell activation antigen CD27; T14; Tumor necrosis factor receptor superfamily member 7"
+    },
+    {
+        "marker":"CD276",
+        "synonyms":"B7-H3; B7RP-2; PSEC0249; UNQ309\/PRO352; 4Ig-B7-H3; B7 homolog 3; Costimulatory molecule"
+    },
+    {
+        "marker":"CD3",
+        "synonyms":"T-cell receptor CD3 signaling complex"
+    },
+    {
+        "marker":"CD303",
+        "synonyms":"CLEC4C; BDCA2; CLECSF11; CLECSF7; DLEC; HECL; C-type lectin domain family 4 member C; UNQ9361\/PRO34150"
+    },
+    {
+        "marker":"CD31",
+        "synonyms":"PECAM1; Platelet and endothelial cell adhesion molecule 1; ENDOCAM; GPIIA'; PECA1"
+    },
+    {
+        "marker":"CD31-vWF",
+        "synonyms":"PECAM1\/CD31 + von Willebrand factor"
+    },
+    {
+        "marker":"CD33",
+        "synonyms":"FLJ00391; p67; SIGLEC-3; Myeloid cell surface antigen CD33"
+    },
+    {
+        "marker":"CD34",
+        "synonyms":"Hematopoietic progenitor cell antigen CD34"
+    },
+    {
+        "marker":"CD36",
+        "synonyms":"FAT; GP3B; GP4; GPIV; SCARB3; Thrombospondin receptor; Platelet glycoprotein 4; Platelet collagen receptor; PAS-4; Leukocyte differentiation antigen CD36; Glycoprotein IIIb; GPIIIB; Fatty acid translocase"
+    },
+    {
+        "marker":"CD38",
+        "synonyms":"CADPR1; ADP-ribosyl cyclase\/cyclic ADP-ribose hydrolase 1; 2'-phospho-ADP-ribosyl cyclase; T10"
+    },
+    {
+        "marker":"CD39",
+        "synonyms":"ENTPD1; ATPDase; NTPDase-1; SPG64; Ectonucleoside triphosphate diphosphohydrolase 1; Ecto-ATP diphosphohydrolase 1; Ecto-ATPDase 1; Ecto-ATPase 1; Ecto-apyrase; Lymphoid cell activation antigen"
+    },
+    {
+        "marker":"CD4",
+        "synonyms":"T-cell surface glycoprotein CD4; T-cell surface antigen T4\/Leu-3"
+    },
+    {
+        "marker":"CD40",
+        "synonyms":"BP50; p50; TNFRSF5; Tumor necrosis factor receptor superfamily member 5; B-cell surface antigen CD40; CD40L receptor; CDw40"
+    },
+    {
+        "marker":"CD44",
+        "synonyms":"CD44R; CSPG8; HCELL; IN; MC56; MDU2; MDU3; MIC4; PGP1"
+    },
+    {
+        "marker":"CD45",
+        "synonyms":"PTPRC; GP180; LCA; T200; Protein tyrosine phosphatase receptor type C; Receptor-type tyrosine-protein phosphatase C; Leukocyte common antigen"
+    },
+    {
+        "marker":"CD45RA",
+        "synonyms":"PTPRC\/CD45 RA-associated epitope"
+    },
+    {
+        "marker":"CD45RO",
+        "synonyms":"PTPRC\/CD45 RO-associated epitope"
+    },
+    {
+        "marker":"CD47",
+        "synonyms":"IAP; MER6; OA3; Leukocyte surface antigen CD47; Antigenic surface determinant protein OA3; Integrin-associated protein; Protein MER6"
+    },
+    {
+        "marker":"CD54",
+        "synonyms":"ICAM1; BB2; Intercellular adhesion molecule 1; Major group rhinovirus receptor"
+    },
+    {
+        "marker":"CD56",
+        "synonyms":"NCAM1; NCAM; Neural cell adhesion molecule 1"
+    },
+    {
+        "marker":"CD57",
+        "synonyms":"HNK-1 \/ CD57 carbohydrate epitope"
+    },
+    {
+        "marker":"CD66a",
+        "synonyms":"CEACAM1; BGP; BGP1; CEA cell adhesion molecule 1; Cell adhesion molecule CEACAM1"
+    },
+    {
+        "marker":"CD66b",
+        "synonyms":"CEACAM8; CGM6; CEA cell adhesion molecule 8; CD67 antigen; Carcinoembryonic antigen CGM6; Non-specific cross-reacting antigen NCA-95; Cell adhesion molecule CEACAM8"
+    },
+    {
+        "marker":"CD68",
+        "synonyms":"DKFZp686M18236; GP110; LAMP4; SCARD1; Macrosialin"
+    },
+    {
+        "marker":"CD69",
+        "synonyms":"CLEC2C; Early activation antigen CD69; Activation inducer molecule; AIM; BL-AC\/P26; C-type lectin domain family 2 member C; EA1; Early T-cell activation antigen p60; GP32\/28; Leukocyte surface antigen Leu-23; MLR-3"
+    },
+    {
+        "marker":"CD7",
+        "synonyms":"GP40; LEU-9; Tp40; TP41; T-cell antigen CD7; T-cell leukemia antigen; T-cell surface antigen Leu-9"
+    },
+    {
+        "marker":"CD73",
+        "synonyms":"NT5E; CALJA; EN; ENT; NT5; NTE; 5'-nucleotidase; 5'-deoxynucleotidase; IMP-specific 5'-nucleotidase; Thymidylate 5'-phosphatase"
+    },
+    {
+        "marker":"CD74",
+        "synonyms":"CLIP; DHLAG; HLA class II histocompatibility antigen gamma chain; HLA-DR antigens-associated invariant chain; Ia antigen-associated invariant chain; Ii"
+    },
+    {
+        "marker":"CD79A",
+        "synonyms":"Ig-alpha; IGA; MB-1; B-cell antigen receptor complex-associated protein alpha chain; MB-1 membrane glycoprotein; Membrane-bound immunoglobulin-associated protein; Surface IgM-associated protein"
+    },
+    {
+        "marker":"CD86",
+        "synonyms":"CD28LG2; T-lymphocyte activation antigen CD86; Activation B7-2 antigen; B70; BU63; CTLA-4 counter-receptor B7.2; FUN-1"
+    },
+    {
+        "marker":"CD8a",
+        "synonyms":"MAL; T-cell surface glycoprotein CD8 alpha chain; T-lymphocyte differentiation antigen T8\/Leu-2"
+    },
+    {
+        "marker":"CD9",
+        "synonyms":"BA2; MIC3; MRP-1; P24; TSPAN29; GIG2; 5H9 antigen; Cell growth-inhibiting gene 2 protein; Leukocyte antigen MIC3; Motility-related protein; Tetraspanin-29"
+    },
+    {
+        "marker":"CD94",
+        "synonyms":"KLRD1; Killer cell lectin like receptor D1; Natural killer cells antigen CD94; KP43"
+    },
+    {
+        "marker":"CD99",
+        "synonyms":"MIC2; MIC2X; MIC2Y; 12E7; E2 antigen; Protein MIC2; T-cell surface glycoprotein E2"
+    },
+    {
+        "marker":"CDX2",
+        "synonyms":"CDX3; Caudal type homeobox 2; Homeobox protein CDX-2"
+    },
+    {
+        "marker":"CEACAM5",
+        "synonyms":"CD66e; CEA; CEA cell adhesion molecule 5; Cell adhesion molecule CEACAM5"
+    },
+    {
+        "marker":"CFTR",
+        "synonyms":"ABC35; ABCC7; CF; CFTR\/MRP; dJ760C5.1; MRP7; TNR-CFTR; Cystic fibrosis transmembrane conductance regulator"
+    },
+    {
+        "marker":"CHGA",
+        "synonyms":"PHE5; PHES; Chromogranin A; CgA; Pituitary secretory protein I; SP-I"
+    },
+    {
+        "marker":"CHI3L1",
+        "synonyms":"GP39; YK-40; YKL40; Chitinase 3 like 1"
+    },
+    {
+        "marker":"Cirate Synthase",
+        "synonyms":"CS \/ citrate synthase, mitochondrial"
+    },
+    {
+        "marker":"CK14",
+        "synonyms":"KRT14; EBS3; EBS4; Keratin 14; Keratin, type I cytoskeletal 14; Cytokeratin-14; K14"
+    },
+    {
+        "marker":"CK19",
+        "synonyms":"KRT19; K19; K1CS; MGC15366; Keratin 19; Keratin, type I cytoskeletal 19; Cytokeratin-19"
+    },
+    {
+        "marker":"CK20",
+        "synonyms":"KRT20; K20; MGC35423; Keratin 20; Keratin, type I cytoskeletal 20; Cytokeratin-20; Protein IT"
+    },
+    {
+        "marker":"CK5",
+        "synonyms":"KRT5; EBS2; KRT5A; Keratin 5; Keratin, type II cytoskeletal 5; 58 kDa cytokeratin; Cytokeratin-5; K5; Type-II keratin Kb5"
+    },
+    {
+        "marker":"CK7",
+        "synonyms":"KRT7; K2C7; K7; SCL; Keratin 7; Keratin, type II cytoskeletal 7; Cytokeratin-7; Sarcolectin; Type-II keratin Kb7"
+    },
+    {
+        "marker":"CK8-18",
+        "synonyms":"keratin 8 + keratin 18"
+    },
+    {
+        "marker":"cl.PARP",
+        "synonyms":"cleaved PARP1"
+    },
+    {
+        "marker":"Collagen Type I",
+        "synonyms":"type I collagen (COL1A1\/COL1A2)"
+    },
+    {
+        "marker":"CTLA-4",
+        "synonyms":"CD152; CELIAC3; GSE; IDDM12; Cytotoxic T-lymphocyte associated protein 4"
+    },
+    {
+        "marker":"CXCL10",
+        "synonyms":"C7; CRG-2; GIP-10; IFI10; INP10; IP-10; MOB-1; SCYB10; C-X-C motif chemokine ligand 10; Small-inducible cytokine B10; Gamma-IP10; 10 kDa interferon gamma-induced protein"
+    },
+    {
+        "marker":"CXCL12",
+        "synonyms":"PBSF; SCYB12; SDF-1A; SDF-1B; SDF1; TLSF-A; TLSF-B; TPAR1; C-X-C motif chemokine ligand 12; Stromal cell derived factor 1; hSDF-1; Pre-B cell growth-stimulating factor; Intercrine reduced in hepatomas; IRH; HIRH"
+    },
+    {
+        "marker":"CXCL13",
+        "synonyms":"ANGIE; ANGIE2; BCA-1; BLC; BLR1L; SCYB13; C-X-C motif chemokine ligand 13; B cell-attracting chemokine 1; B lymphocyte chemoattractant; CXC chemokine BLC; Small-inducible cytokine B13"
+    },
+    {
+        "marker":"CXCL4",
+        "synonyms":"PF4; SCYB4; Platelet factor 4; C-X-C motif chemokine 4; Iroplact; Oncostatin-A"
+    },
+    {
+        "marker":"CXCL8",
+        "synonyms":"IL8; Interleukin-8; C-X-C motif chemokine 8; Emoctakin; Granulocyte chemotactic protein 1; GCP-1; Monocyte-derived neutrophil chemotactic factor; MDNCF; Monocyte-derived neutrophil-activating peptide; MONAP; Neutrophil-activating protein 1; NAP-1; Protein 3-10C; T-cell chemotactic factor"
+    },
+    {
+        "marker":"CXCL9",
+        "synonyms":"CMK; MIG; SCYB9; C X C motif chemokine 9; Gamma-interferon-induced monokine; HuMIG; Small-inducible cytokine B9"
+    },
+    {
+        "marker":"CXCR2",
+        "synonyms":"CD182; CMKAR2; IL8RB; C-X-C motif chemokine receptor 2; CDw128b; GRO\/MGSA receptor; High affinity interleukin-8 receptor B; IL-8 receptor type 2"
+    },
+    {
+        "marker":"CXCR5",
+        "synonyms":"BLR1; CD185; MDR15; C-X-C motif chemokine receptor 5; Burkitt lymphoma receptor 1; Monocyte-derived receptor 15"
+    },
+    {
+        "marker":"CXCR6",
+        "synonyms":"BONZO; CD186; STRL33; TYMSTR; C-X-C motif chemokine receptor 6; CDw186; G-protein coupled receptor STRL33; G-protein coupled receptor bonzo"
+    },
+    {
+        "marker":"DapB",
+        "synonyms":"bacterial dapB negative-control RNA probe"
+    },
+    {
+        "marker":"DLL3",
+        "synonyms":"SCDO1; Delta like canonical Notch ligand 3; Delta-like protein 3; Drosophila Delta homolog 3; Delta3"
+    },
+    {
+        "marker":"DNA1",
+        "synonyms":"DNA staining channel 1"
+    },
+    {
+        "marker":"DNA2",
+        "synonyms":"DNA staining channel 2"
+    },
+    {
+        "marker":"Ecad",
+        "synonyms":"E-cadherin (CDH1); reagent-dependent P-cadherin cross-reactivity"
+    },
+    {
+        "marker":"EGFR",
+        "synonyms":"ERBB; ERBB1; HER1; Epidermal growth factor receptor; Proto-oncogene c-ErbB-1; Receptor tyrosine-protein kinase erbB-1"
+    },
+    {
+        "marker":"EOMES",
+        "synonyms":"TBR2; Eomesodermin; Eomesodermin homolog; T-box brain protein 2; T-brain-2"
+    },
+    {
+        "marker":"EPCAM",
+        "synonyms":"17-1A; 323\/A3; Ber-Ep4; CD326; CO-17A; EGP-2; EGP34; EGP40; ESA; GA733-2; HEA125; KS1\/4; KSA; LY74; M4S1; MH99; MIC18; MK-1; MOC-31; TACST-1; TACSTD1; TROP1; Epithelial cell adhesion molecule; M1S2; Adenocarcinoma-associated antigen; Cell surface glycoprotein Trop-1; Epithelial cell surface antigen; Epithelial glycoprotein; EGP; Epithelial glycoprotein 314; EGP314; hEGP314; KS 1\/4 antigen; Major gastrointestinal tumor-associated protein GA733-2; Tumor-associated calcium signal transducer 1"
+    },
+    {
+        "marker":"ER",
+        "synonyms":"ESR1; ESR; NR3A1; Estrogen receptor; ER-alpha; Estradiol receptor; Nuclear receptor subfamily 3 group A member 1; Estrogen receptor alpha"
+    },
+    {
+        "marker":"ERK",
+        "synonyms":"ERK1\/ERK2 MAP kinases (MAPK3\/MAPK1)"
+    },
+    {
+        "marker":"ERN1",
+        "synonyms":"IRE1; IRE1P; Endoplasmic reticulum to nucleus signaling 1; IRE1alpha phosphorylated at Ser724"
+    },
+    {
+        "marker":"EZH2",
+        "synonyms":"ENX-1; EZH1; KMT6; KMT6A; Enhancer of zeste 2 polycomb repressive complex 2 subunit; Histone-lysine N-methyltransferase EZH2"
+    },
+    {
+        "marker":"FAP",
+        "synonyms":"DPPIV; Fibroblast activation protein alpha; Prolyl endopeptidase FAP; 170 kDa melanoma membrane-bound gelatinase; Dipeptidyl peptidase FAP; FAPalpha; Gelatine degradation protease FAP; Integral membrane serine protease; Post-proline cleaving enzyme; SIMP; Surface-expressed protease; Seprase"
+    },
+    {
+        "marker":"Fibrinogen",
+        "synonyms":"Fibrinogen complex (FGA\/FGB\/FGG)"
+    },
+    {
+        "marker":"Fibronectin",
+        "synonyms":"FN1; CIG; FINC; GFND2; LETS; MSF; Fibronectin 1; FN; Cold-insoluble globulin"
+    },
+    {
+        "marker":"FOXA2",
+        "synonyms":"HNF3B; Forkhead box A2; TCF3B; Hepatocyte nuclear factor 3-beta; HNF-3-beta; Transcription factor 3B"
+    },
+    {
+        "marker":"FOXP3",
+        "synonyms":"AIID; DIETER; IPEX; JM2; PIDX; SCURFIN; XPID; Forkhead box protein P3"
+    },
+    {
+        "marker":"FSP1",
+        "synonyms":"S100A4 \/ fibroblast-specific protein 1"
+    },
+    {
+        "marker":"GAPDH",
+        "synonyms":"GAPD; Glyceraldehyde-3-phosphate dehydrogenase; CDABP0047; OK\/SW-cl.12; Peptidyl-cysteine S-nitrosylase GAPDH"
+    },
+    {
+        "marker":"GATA3",
+        "synonyms":"HDR; GATA binding protein 3; Trans-acting T-cell-specific transcription factor GATA-3"
+    },
+    {
+        "marker":"GCG",
+        "synonyms":"GLP-1; GLP2; GRPP; Glucagon; Pro-glucagon"
+    },
+    {
+        "marker":"GFAP",
+        "synonyms":"FLJ45472; Glial fibrillary acidic protein"
+    },
+    {
+        "marker":"GHRL",
+        "synonyms":"Ghrelin; MTLRP; Obestatin; Ghrelin and obestatin prepropeptide"
+    },
+    {
+        "marker":"GITR",
+        "synonyms":"TNFRSF18; AITR; CD357; Tumor necrosis factor receptor superfamily member 18; UNQ319\/PRO364; Activation-inducible TNFR family receptor; Glucocorticoid-induced TNFR-related protein"
+    },
+    {
+        "marker":"GLUT1",
+        "synonyms":"SLC2A1; CSE; DYT18; DYT9; GLUT; HTLVR; Solute carrier family 2 member 1; Glucose transporter type 1, erythrocyte\/brain; HepG2 glucose transporter"
+    },
+    {
+        "marker":"GPA33",
+        "synonyms":"A33; Glycoprotein A33"
+    },
+    {
+        "marker":"GrzB",
+        "synonyms":"GZMB \/ granzyme B"
+    },
+    {
+        "marker":"HER2 (3B5)",
+        "synonyms":"ERBB2 \/ HER2; antibody clone 3B5"
+    },
+    {
+        "marker":"HER2 (D8F12)",
+        "synonyms":"ERBB2 \/ HER2; antibody clone D8F12"
+    },
+    {
+        "marker":"HER3",
+        "synonyms":"ERBB3; LCCS2; Erb-b2 receptor tyrosine kinase 3; Proto-oncogene-like protein c-ErbB-3; Tyrosine kinase-type cell surface receptor HER3; Human epidermal growth factor receptor 3"
+    },
+    {
+        "marker":"Hexokinase I",
+        "synonyms":"HK1 \/ hexokinase-1"
+    },
+    {
+        "marker":"HIF1a",
+        "synonyms":"BHLHE78; HIF1; MOP1; PASD8; Hypoxia inducible factor 1 subunit alpha; PAS domain-containing protein 8; Member of PAS protein 1; Class E basic helix-loop-helix protein 78; Basic-helix-loop-helix-PAS protein MOP1; ARNT-interacting protein"
+    },
+    {
+        "marker":"Histone H3",
+        "synonyms":"histone H3 family, variant unspecified"
+    },
+    {
+        "marker":"Histone H3 - p",
+        "synonyms":"phospho-histone H3 (Ser28)"
+    },
+    {
+        "marker":"Histone H3 k27me3",
+        "synonyms":"H3K27me3 \/ histone H3 lysine-27 trimethylation"
+    },
+    {
+        "marker":"HLA-ABC",
+        "synonyms":"classical HLA class I (HLA-A\/HLA-B\/HLA-C)"
+    },
+    {
+        "marker":"HLADR",
+        "synonyms":"HLA-DR class-II alpha\/beta complex"
+    },
+    {
+        "marker":"HOPX",
+        "synonyms":"HOP; LAGY; NECC1; OB1; SMAP31; HOP homeobox; HOD; Homeodomain-only protein; Lung cancer-associated Y protein; Not expressed in choriocarcinoma protein 1; Odd homeobox protein 1"
+    },
+    {
+        "marker":"IAPP",
+        "synonyms":"AMYLIN; DAP; IAP; Islet amyloid polypeptide"
+    },
+    {
+        "marker":"IBA1",
+        "synonyms":"AIF1; Em:AF129756.17; IRT-1; Allograft inflammatory factor 1; G1; Ionized calcium-binding adapter molecule 1; Protein G1"
+    },
+    {
+        "marker":"ICOS",
+        "synonyms":"AILIM; CD278; Inducible T cell costimulator; Activation-inducible lymphocyte immunomediatory molecule"
+    },
+    {
+        "marker":"Ido1",
+        "synonyms":"IDO; INDO; Indoleamine 2,3-dioxygenase 1; Indoleamine-pyrrole 2,3-dioxygenase"
+    },
+    {
+        "marker":"IFNy",
+        "synonyms":"IFNG \/ interferon gamma"
+    },
+    {
+        "marker":"IgG",
+        "synonyms":"Immunoglobulin G"
+    },
+    {
+        "marker":"IL10",
+        "synonyms":"CSIF; IL10A; TGIF; Interleukin 10; Cytokine synthesis inhibitory factor"
+    },
+    {
+        "marker":"IL17a",
+        "synonyms":"CTLA8; IL-17; Interleukin 17A; Cytotoxic T-lymphocyte-associated antigen 8"
+    },
+    {
+        "marker":"IL7a",
+        "synonyms":"IL7R \/ CD127 \/ interleukin-7 receptor subunit alpha"
+    },
+    {
+        "marker":"Insulin",
+        "synonyms":"INS; IDDM1; IDDM2"
+    },
+    {
+        "marker":"JARID2-C",
+        "synonyms":"JARID2"
+    },
+    {
+        "marker":"JARID2-N",
+        "synonyms":"JARID2"
+    },
+    {
+        "marker":"K-Cadherin",
+        "synonyms":"CDH6; Cadherin 6; Kidney cadherin"
+    },
+    {
+        "marker":"Ki67",
+        "synonyms":"MKI67; MIB-1; PPP1R105; Marker of proliferation Ki-67"
+    },
+    {
+        "marker":"Ki67-pt198",
+        "synonyms":"MKI67 \/ Ki-67, Pt198 channel"
+    },
+    {
+        "marker":"LAG3",
+        "synonyms":"CD223; Lymphocyte activating 3; FDC; Lymphocyte activation gene 3 protein"
+    },
+    {
+        "marker":"LAMP3",
+        "synonyms":"CD208; DC-LAMP; LAMP; TSC403; Lysosomal associated membrane protein 3; DC-lysosome-associated membrane glycoprotein; Protein TSC403"
+    },
+    {
+        "marker":"LDHA",
+        "synonyms":"Lactate dehydrogenase A; PIG19; Cell proliferation-inducing gene 19 protein; LDH muscle subunit; LDH-M; Renal carcinoma antigen NY-REN-59"
+    },
+    {
+        "marker":"LYVE1",
+        "synonyms":"XLKD1; Lymphatic vessel endothelial hyaluronan receptor 1; CRSBP1; HAR; UNQ230\/PRO263; Cell surface retention sequence-binding protein 1; Extracellular link domain-containing protein 1; Hyaluronic acid receptor"
+    },
+    {
+        "marker":"MART1",
+        "synonyms":"MLANA; Melan-A; Melanoma antigen recognized by T-cells 1; Antigen LB39-AA; Antigen SK29-AA"
+    },
+    {
+        "marker":"Met",
+        "synonyms":"MET \/ hepatocyte growth factor receptor"
+    },
+    {
+        "marker":"MITF",
+        "synonyms":"BHLHE32; MI; WS2; WS2A; Melanocyte inducing transcription factor; Melanogenesis associated transcription factor; Microphthalmia-associated transcription factor; Class E basic helix-loop-helix protein 32"
+    },
+    {
+        "marker":"MMP11",
+        "synonyms":"STMY3; Matrix metallopeptidase 11; Stromelysin-3; SL-3; ST3"
+    },
+    {
+        "marker":"MMP9",
+        "synonyms":"CLG4B; Matrix metalloproteinase-9; 92 kDa gelatinase; 92 kDa type IV collagenase; Gelatinase B"
+    },
+    {
+        "marker":"MOG",
+        "synonyms":"BTN6; BTNL11; Myelin oligodendrocyte glycoprotein"
+    },
+    {
+        "marker":"MPO",
+        "synonyms":"Myeloperoxidase"
+    },
+    {
+        "marker":"MS4A4A",
+        "synonyms":"CD20L1; MS4A4; MS4A7; Membrane spanning 4-domains A4A; 4SPAN1; HDCME31P; Membrane-spanning 4-domains subfamily A member 4A; CD20 antigen-like 1; Four-span transmembrane protein 1"
+    },
+    {
+        "marker":"mTOR",
+        "synonyms":"FLJ44809; FRAP; FRAP1; FRAP2; RAFT1; RAPT1; Mechanistic target of rapamycin kinase; Serine\/threonine-protein kinase mTOR; FK506-binding protein 12-rapamycin complex-associated protein 1; FKBP12-rapamycin complex-associated protein; Rapamycin target protein 1"
+    },
+    {
+        "marker":"MX1",
+        "synonyms":"IFI-78K; lncMX1-215; MXA; MX dynamin like GTPase 1; Interferon-induced GTP-binding protein Mx1; Interferon-induced protein p78; Interferon-regulated resistance GTP-binding protein MxA; Myxoma resistance protein 1; Myxovirus resistance protein 1"
+    },
+    {
+        "marker":"NaK-ATPase",
+        "synonyms":"Na+\/K+-transporting ATPase pump"
+    },
+    {
+        "marker":"Nestin",
+        "synonyms":"NES; FLJ21841; Nbla00170"
+    },
+    {
+        "marker":"NeuN",
+        "synonyms":"RBFOX3; FOX-3; HRNBP3; RNA binding fox-1 homolog 3; RNA binding protein fox-1 homolog 3; Fox-1 homolog C; Neuronal nuclei antigen"
+    },
+    {
+        "marker":"NFkb",
+        "synonyms":"NF-kappa-B transcription-factor family\/complexes"
+    },
+    {
+        "marker":"NKG2A",
+        "synonyms":"KLRC1; CD159a; NKG2; NKG2-B; Killer cell lectin like receptor C1; NKG2-A\/NKG2-B type II integral membrane protein; CD159 antigen-like family member A; NK cell receptor A"
+    },
+    {
+        "marker":"NKp46",
+        "synonyms":"NCR1; CD335; LY94; Natural cytotoxicity triggering receptor 1; Lymphocyte antigen 94 homolog; NK cell-activating receptor; Natural killer cell p46-related protein; hNKp46"
+    },
+    {
+        "marker":"NKX2.2",
+        "synonyms":"NKX2B; NK2 homeobox 2; Homeobox protein Nkx-2.2; Homeobox protein NK-2 homolog B"
+    },
+    {
+        "marker":"NKX6-1",
+        "synonyms":"NKX6A; NK6 homeobox 1; Homeobox protein Nkx-6.1; Homeobox protein NK-6 homolog A"
+    },
+    {
+        "marker":"Olig1",
+        "synonyms":"BHLHB6; BHLHE21; Oligodendrocyte transcription factor 1; OLIGO1; Class B basic helix-loop-helix protein 6; Class E basic helix-loop-helix protein 21"
+    },
+    {
+        "marker":"Olig2",
+        "synonyms":"BHLHB1; BHLHE19; OLIGO2; PRKCBP2; RACK17; Oligodendrocyte transcription factor 2; Class B basic helix-loop-helix protein 1; Class E basic helix-loop-helix protein 19; Protein kinase C-binding protein 2; Protein kinase C-binding protein RACK17"
+    },
+    {
+        "marker":"P2RY12",
+        "synonyms":"HORK3; P2Y12; SP1999; Purinergic receptor P2Y12; P2Y purinoceptor 12; ADP-glucose receptor; ADPG-R; P2T(AC); P2Y(AC); P2Y(cyc); P2Y12 platelet ADP receptor; P2Y(ADP)"
+    },
+    {
+        "marker":"p53",
+        "synonyms":"TP53; LFS1; Tumor protein p53; Cellular tumor antigen p53"
+    },
+    {
+        "marker":"p75",
+        "synonyms":"NGFR; CD271; p75NTR; TNFRSF16; Nerve growth factor receptor; Tumor necrosis factor receptor superfamily member 16; Gp80-LNGFR; Low affinity neurotrophin receptor p75NTR; Low-affinity nerve growth factor receptor; NGF receptor"
+    },
+    {
+        "marker":"pAKT",
+        "synonyms":"phosphorylated AKT family"
+    },
+    {
+        "marker":"panCK",
+        "synonyms":"pan-cytokeratin \/ broad-spectrum keratin marker"
+    },
+    {
+        "marker":"Pax6",
+        "synonyms":"AN; AN1; AN2; D11S812E; WAGR; Paired box 6; Paired box protein Pax-6; Aniridia type II protein; Oculorhombin"
+    },
+    {
+        "marker":"pCREB",
+        "synonyms":"phosphorylated CREB-related epitope (CREB1 core target)"
+    },
+    {
+        "marker":"PCSK1",
+        "synonyms":"NEC1; PC1; PC1\/3; PC3; SPC3; Proprotein convertase subtilisin\/kexin type 1; Neuroendocrine convertase 1; Prohormone convertase 1; Proprotein convertase 1"
+    },
+    {
+        "marker":"PCSK2",
+        "synonyms":"NEC2; PC2; SPC2; Proprotein convertase subtilisin\/kexin type 2; Neuroendocrine convertase 2; KEX2-like endoprotease 2; Prohormone convertase 2; Proprotein convertase 2"
+    },
+    {
+        "marker":"PD1",
+        "synonyms":"PDCD1; CD279; hSLE1; SLEB2; Programmed cell death protein 1"
+    },
+    {
+        "marker":"PDGFRb",
+        "synonyms":"CD140b; JTK12; PDGFR; PDGFR1; Platelet derived growth factor receptor beta"
+    },
+    {
+        "marker":"PDL1",
+        "synonyms":"CD274; B7-H; B7-H1; PDCD1LG1; Programmed cell death 1 ligand 1"
+    },
+    {
+        "marker":"PDX1",
+        "synonyms":"GSF; IDX-1; IPF1; IUF-1; MODY4; STF-1; Pancreatic and duodenal homeobox 1; Pancreas\/duodenum homeobox protein 1; Glucose-sensitive factor; Insulin promoter factor 1; Insulin upstream factor 1; Islet\/duodenum homeobox-1; Somatostatin-transactivating factor 1"
+    },
+    {
+        "marker":"pERK",
+        "synonyms":"phosphorylated ERK1\/ERK2 (MAPK3\/MAPK1)"
+    },
+    {
+        "marker":"Proinsulin",
+        "synonyms":"PIN; Proinsulin (INS precursor)"
+    },
+    {
+        "marker":"PM2",
+        "synonyms":"Plasma membrane 2 \/ IMC cell-segmentation reagent (195Pt)"
+    },
+    {
+        "marker":"PM3",
+        "synonyms":"Plasma membrane 3 \/ IMC cell-segmentation reagent (196Pt)"
+    },
+    {
+        "marker":"PM4",
+        "synonyms":"Plasma membrane 4 \/ IMC cell-segmentation reagent (198Pt)"
+    },
+    {
+        "marker":"pMAPKAPK2",
+        "synonyms":"phosphorylated MAPKAPK2 \/ MK2"
+    },
+    {
+        "marker":"PNAd",
+        "synonyms":"PNAd \/ peripheral node addressin glycoepitope"
+    },
+    {
+        "marker":"pNFkB",
+        "synonyms":"Phosphorylated RELA\/p65"
+    },
+    {
+        "marker":"Podoplanin",
+        "synonyms":"PDPN; Aggrus; D2-40; GP38; GP40; PA2.26; T1A-2; GP36; PSEC0003; PSEC0025; Glycoprotein 36; PA2.26 antigen; T1-alpha; T1A"
+    },
+    {
+        "marker":"pp38",
+        "synonyms":"phosphorylated p38 MAPK family"
+    },
+    {
+        "marker":"PPY",
+        "synonyms":"PNP; PP; Pancreatic polypeptide"
+    },
+    {
+        "marker":"PR",
+        "synonyms":"PGR; NR3C3; Progesterone receptor; Nuclear receptor subfamily 3 group C member 3"
+    },
+    {
+        "marker":"pRB",
+        "synonyms":"phospho-RB1 (Ser807\/Ser811-directed; additional reactivity possible)"
+    },
+    {
+        "marker":"Proglucagon",
+        "synonyms":"GCG; GLP-1; GLP2; GRPP; Glucagon precursor"
+    },
+    {
+        "marker":"pS6",
+        "synonyms":"phosphorylated ribosomal protein S6 (RPS6)"
+    },
+    {
+        "marker":"pSTAT1",
+        "synonyms":"phosphorylated STAT1"
+    },
+    {
+        "marker":"pSTAT3",
+        "synonyms":"phosphorylated STAT3"
+    },
+    {
+        "marker":"PTEN",
+        "synonyms":"BZS; MHAM; MMAC1; PTEN1; TEP1; Phosphatase and tensin homolog; Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN; Mutated in multiple advanced cancers 1"
+    },
+    {
+        "marker":"PTPN22",
+        "synonyms":"LYP; LYP1; LYP2; PTPN8; Protein tyrosine phosphatase non-receptor type 22; Tyrosine-protein phosphatase non-receptor type 22; Hematopoietic cell protein-tyrosine phosphatase 70Z-PEP; Lymphoid phosphatase; PEST-domain phosphatase; PEP"
+    },
+    {
+        "marker":"PTPRN",
+        "synonyms":"IA-2; ICA512; Protein tyrosine phosphatase receptor type N; ICA3; Receptor-type tyrosine-protein phosphatase-like N; R-PTP-N; Islet cell antigen 512; Islet cell autoantigen 3; PTP IA-2"
+    },
+    {
+        "marker":"S100a8",
+        "synonyms":"60B8AG; CAGA; CFAG; CGLA; MRP-8; P8; S100 calcium binding protein A8; Calgranulin-A; Calprotectin L1L subunit; Cystic fibrosis antigen; Leukocyte L1 complex light chain; Migration inhibitory factor-related protein 8; Urinary stone protein band A"
+    },
+    {
+        "marker":"S100B",
+        "synonyms":"S100beta; S100 calcium binding protein B; S-100 protein beta chain; S-100 protein subunit beta"
+    },
+    {
+        "marker":"S6",
+        "synonyms":"RPS6; Ribosomal protein S6; Small ribosomal subunit protein eS6"
+    },
+    {
+        "marker":"SCD5",
+        "synonyms":"ACOD4; FADS4; FLJ21032; HSCD5; SCD4; Stearoyl-CoA desaturase 5; SCD2; Acyl-CoA-desaturase 4; Stearoyl-CoA 9-desaturase; Stearoyl-CoA desaturase 2"
+    },
+    {
+        "marker":"SLC1A3\/EAAT1",
+        "synonyms":"SLC1A3 \/ EAAT1"
+    },
+    {
+        "marker":"Slug",
+        "synonyms":"SNAI2; SLUGH; SLUGH1; SNAIL2; Snail family transcriptional repressor 2; Zinc finger protein SNAI2; Neural crest transcription factor Slug; Protein snail homolog 2"
+    },
+    {
+        "marker":"SMA",
+        "synonyms":"ACTA2 \/ alpha-smooth muscle actin"
+    },
+    {
+        "marker":"SNAI1",
+        "synonyms":"SLUGH2; SNA; SNAH; SNAIL; SNAIL1; Snail family transcriptional repressor 1; Zinc finger protein SNAI1; Protein snail homolog 1; Protein sna"
+    },
+    {
+        "marker":"SOD2",
+        "synonyms":"GC1; GClnc1; IPOB; MNSOD; Superoxide dismutase 2; Superoxide dismutase [Mn], mitochondrial"
+    },
+    {
+        "marker":"Somatostatin",
+        "synonyms":"SST; SMST; SST1; Growth hormone release-inhibiting factor"
+    },
+    {
+        "marker":"Sox10",
+        "synonyms":"DOM; WS2E; WS4; SRY-box transcription factor 10; SRY-box 10; Transcription factor SOX-10"
+    },
+    {
+        "marker":"Sox2",
+        "synonyms":"SRY-box transcription factor 2; SRY-box 2; Transcription factor SOX-2"
+    },
+    {
+        "marker":"Sox9",
+        "synonyms":"SRA1; CMD1; CMPD1; SRY-box 9; Transcription factor SOX-9"
+    },
+    {
+        "marker":"SYP",
+        "synonyms":"MRX96; Synaptophysin; Major synaptic vesicle protein p38"
+    },
+    {
+        "marker":"TBET",
+        "synonyms":"TBX21; TBLYM; T-box transcription factor 21; T-box 21; T-box transcription factor TBX21; T-box protein 21; T-cell-specific T-box transcription factor T-bet; Transcription factor TBLYM"
+    },
+    {
+        "marker":"TCF7",
+        "synonyms":"TCF1; Transcription factor 7; T-cell-specific transcription factor 1; T-cell factor 1"
+    },
+    {
+        "marker":"TGFB",
+        "synonyms":"TGF-beta cytokine family (TGFB1\/TGFB2\/TGFB3)"
+    },
+    {
+        "marker":"TIGIT",
+        "synonyms":"DKFZp667A205; FLJ39873; VSIG9; VSTM3; T cell immunoreceptor with Ig and ITIM domains; V-set and immunoglobulin domain-containing protein 9; V-set and transmembrane domain-containing protein 3"
+    },
+    {
+        "marker":"Tim3",
+        "synonyms":"HAVCR2; CD366; FLJ14428; TIMD3; Hepatitis A virus cellular receptor 2; T-cell membrane protein 3; T-cell immunoglobulin mucin receptor 3; T-cell immunoglobulin and mucin domain-containing protein 3"
+    },
+    {
+        "marker":"TMEM119",
+        "synonyms":"OBIF; Transmembrane protein 119; PSEC0199; UNQ731\/PRO1415; Osteoblast induction factor"
+    },
+    {
+        "marker":"TMEM173",
+        "synonyms":"STING1; ERIS; FLJ38577; MITA; MPYS; NET23; STING; Stimulator of interferon response cGAMP interactor 1; Transmembrane protein 173; Stimulator of interferon genes protein; hSTING; Endoplasmic reticulum interferon stimulator; Mediator of IRF3 activation; hMITA"
+    },
+    {
+        "marker":"TNC",
+        "synonyms":"DFNA56; HXB; MGC167029; TN; Tenascin C; Tenascin; Cytotactin; GMEM; GP 150-225; Glioma-associated-extracellular matrix antigen; Hexabrachion; JI; Myotendinous antigen; Neuronectin"
+    },
+    {
+        "marker":"TOX",
+        "synonyms":"KIAA0808; TOX1; Thymocyte selection associated high mobility group box; Thymocyte selection-associated high mobility group box protein TOX; Thymus high mobility group box protein TOX"
+    },
+    {
+        "marker":"TOX2",
+        "synonyms":"C20ORF100; dJ1108D11.2; GCX-1; TOX high mobility group box family member 2; Granulosa cell HMG box protein 1"
+    },
+    {
+        "marker":"Twist",
+        "synonyms":"TWIST1; ACS3; BHLHA38; BPES2; BPES3; CRS; CRS1; H-twist; SCS; Twist family bHLH transcription factor 1; Twist-related protein 1; Class A basic helix-loop-helix protein 38"
+    },
+    {
+        "marker":"TXNIP",
+        "synonyms":"ARRDC6; EST01027; HHCPA78; THIF; VDUP1; Thioredoxin interacting protein; Thioredoxin-binding protein 2; Vitamin D3 up-regulated protein 1"
+    },
+    {
+        "marker":"VCAM1",
+        "synonyms":"CD106; Vascular cell adhesion molecule 1; Vascular cell adhesion protein 1; INCAM-100"
+    },
+    {
+        "marker":"VEGF",
+        "synonyms":"VEGFA; VPF; Vascular endothelial growth factor A"
+    },
+    {
+        "marker":"Vimentin",
+        "synonyms":"VIM"
+    },
+    {
+        "marker":"VISTA",
+        "synonyms":"VSIR; B7-H5; C10ORF54; DIES1; GI24; PD-1H; SISP1; V-set immunoregulatory receptor; PP2135; UNQ730\/PRO1412; V-type immunoglobulin domain-containing suppressor of T-cell activation; Platelet receptor Gi24; Stress-induced secreted protein-1; V-set domain-containing immunoregulatory receptor"
+    },
+    {
+        "marker":"WFS1",
+        "synonyms":"DFNA14; DFNA38; DFNA6; DIDMOAD; WFS; Wolframin ER transmembrane glycoprotein; Wolframin"
+    },
+    {
+        "marker":"XBP1",
+        "synonyms":"XBP2; X-box binding protein 1; TREB5; Tax-responsive element-binding protein 5"
+    },
+    {
+        "marker":"CCR7",
+        "synonyms":"BLR2; CD197; CDw197; CMKBR7; EBI1; C-C motif chemokine receptor 7; EVI1; C-C chemokine receptor type 7; C-C CKR-7; Epstein-Barr virus-induced G-protein coupled receptor 1; MIP-3 beta receptor"
+    },
+    {
+        "marker":"CD29",
+        "synonyms":"ITGB1; FNRB; GPIIA; MDF2; MSK12; Integrin subunit beta 1; Integrin beta-1; Fibronectin receptor subunit beta; Glycoprotein IIa; VLA-4 subunit beta"
+    },
+    {
+        "marker":"MEK1-2",
+        "synonyms":"MEK1\/MEK2 \/ MAP2K1 and MAP2K2"
+    },
+    {
+        "marker":"pMEK1-2",
+        "synonyms":"phosphorylated MEK1\/MEK2 (MAP2K1\/MAP2K2)"
+    },
+    {
+        "marker":"S100",
+        "synonyms":"S100-family antigen reactivity"
+    }
+]

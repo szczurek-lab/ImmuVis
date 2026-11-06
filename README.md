@@ -116,7 +116,8 @@ markers:
 ```
 
 - Each listed panel must have an `imgs/` subdirectory under both split paths.
-- Marker names must exactly match [configs/markers_tokenizer.yaml](./configs/markers_tokenizer.yaml), including capitalization and spacing. The marker list must follow the channel order in the files.
+- Marker names must exactly match [configs/markers_tokenizer.yaml](./configs/markers_tokenizer.yaml), including capitalization and spacing.
+- Use the [marker synonyms JSON](./configs/markers_with_synonyms.json) to help map your marker names to tokenizer vocabulary names. Each entry contains a `marker` name and its `synonyms`; review candidate matches against your marker and antibody metadata, then use the exact tokenizer name in your panel configuration without changing channel order. Synonyms are a reference only and are not resolved automatically by the loader.
 - Tokenizer values are integer embedding indices, not channel positions within an image. For a new model, use unique contiguous IDs starting at zero. For a checkpoint, preserve its original marker-to-ID mapping.
 - Unknown markers raise an error by default. `data_config.unsupported_marker_behavior: drop` removes them and their image channels; fine-tuning is required to learn new markers.
 
@@ -238,10 +239,6 @@ For inference, prepare preprocessed float tensors and marker-ID tensors on the s
 Input and output IDs need not describe the same panel, but must be supported by the checkpoint's tokenizer. The two default output values are raw mean logits and log variance: apply `sigmoid` to the mean logits to obtain reconstructed intensities in `[0, 1]`.
 
 See the [virtual staining tutorial](./notebooks/tutorial_virtual_staining.ipynb) for preprocessing, prediction, and visualization examples, and the [cell typing tutorial](./notebooks/tutorial_celltyping.ipynb) for embedding-based analysis.
-
-## Publishing models to Hugging Face
-
-See the [Hugging Face publishing notebook](./docs/publishing-to-huggingface.ipynb) for step-by-step instructions and executable upload and verification cells. It defaults to Conv; for Swin or ViT, update the repository ID, checkpoint path, and model card path to match the variant in the table above. All three original variants share the same tokenizer.
 
 ## Repository layout
 
